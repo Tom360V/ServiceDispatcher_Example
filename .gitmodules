@@ -1,0 +1,9 @@
+[submodule "external/ServiceDispatcher"]
+	path = external/ServiceDispatcher
+	url = https://github.com/tom360v/ServiceDispatcher
+[submodule "external/ServiceRGB"]
+	path = external/ServiceRGB
+	url = https://github.com/tom360v/ServicesRGB
+[submodule "external/fifo"]
+	path = external/fifo
+	url = https://github.com/tom360v/fifo
